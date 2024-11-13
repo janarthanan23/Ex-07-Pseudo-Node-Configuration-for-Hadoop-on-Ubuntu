@@ -69,24 +69,24 @@ Include the following lines in core-site.xml file between <configuration> and
 ![10](https://github.com/user-attachments/assets/ac0c1344-a0ed-4ab3-83f1-3ca31d59205a)
 
 c)	mapred-site.xml
- 
-![11](https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0)
+
+<img src="https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0" width="25%" />
 
 Include the following lines in mapred-site.xml file
  
-![12](https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a)
+<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="25%" />
 
 d)	hdfs-site.xml
 
 Include the following lines in hdfs-site.xml file
 
-![13](https://github.com/user-attachments/assets/47b39cbc-7e8e-4a4b-9707-02422070ecda)
+<img src="https://github.com/user-attachments/assets/47b39cbc-7e8e-4a4b-9707-02422070ecda" width="25%" />
 
 e)	yarn-site.xml
 
 Include the following lines in yarn-site.xml file
 
-![14](https://github.com/user-attachments/assets/35243557-25be-4468-b1d1-4686a61a9397)
+<img src="https://github.com/user-attachments/assets/35243557-25be-4468-b1d1-4686a61a9397" width="25%" />
 
 8.	Format the Hadoop File system implemented on top of the local file system using
 

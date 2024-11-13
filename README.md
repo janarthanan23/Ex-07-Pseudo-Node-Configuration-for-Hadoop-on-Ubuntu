@@ -1,4 +1,4 @@
-# Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
+# Ex-07-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
 
 ## AIM
 
@@ -8,6 +8,7 @@ To implement Pseudo Node configuration for Hadoop on ubuntu.
 **Name** : Yuvaraj B<br>
 **Reg No**: 212222040043
 
+## Hadoop Installation Overview
 
 ## Pre-requisites
 

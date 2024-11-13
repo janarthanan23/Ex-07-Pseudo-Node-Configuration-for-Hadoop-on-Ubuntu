@@ -108,7 +108,7 @@ Explore Hadoop using http://localhost:50070/ from the browser
 
 <img src="https://github.com/user-attachments/assets/df6d34e4-5229-4464-906c-66475a8f3989" width="40%" />
 
-11.	Create a directory ‘/input’ in HDFS
+<br>11.	Create a directory ‘/input’ in HDFS
 
 <img src="https://github.com/user-attachments/assets/079d266e-6302-478c-8108-7123f6305ddc" width="25%" />
 

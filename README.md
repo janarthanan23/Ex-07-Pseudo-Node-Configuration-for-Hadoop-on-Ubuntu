@@ -2,7 +2,7 @@
 
 ## AIM
 
-To implement Pseudo Node configuration for Hadoop on ubuntu
+To implement Pseudo Node configuration for Hadoop on ubuntu.
 
 
 **Name** : Yuvaraj B<br>

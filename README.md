@@ -111,16 +111,16 @@ Explore Hadoop using http://localhost:50070/ from the browser
 
 12.	Copy the input files into the distributed file system
 
-<img src="https://github.com/user-attachments/assets/1070e89c-92c6-4085-ad95-c25cb42db862" width="25%" />
+<img src="https://github.com/user-attachments/assets/1070e89c-92c6-4085-ad95-c25cb42db862" width="35%" />
 
 
 13.	Run some of the examples provided
 
-<img src="https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339" width="25%" />
+<img src="https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339" width="35%" />
 
 14.	Examine the output files
 
-<img src="https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47" width="25%" />
+<img src="https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47" width="35%" />
 
 
 Copy the output files from the distributed file system to the local file system and examine them:

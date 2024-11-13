@@ -75,8 +75,7 @@ c)	mapred-site.xml
 
 Include the following lines in mapred-site.xml file
  
-<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" style="width: 35%; border: solid 2px black;" /><br>
-
+<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="35%" /><br>
 
 
 d)	hdfs-site.xml

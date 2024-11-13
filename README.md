@@ -70,12 +70,15 @@ Include the following lines in core-site.xml file between <configuration> and
 
 c)	mapred-site.xml
 
-<img src="https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0" width="35%" />
-<br>
+<img src="https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0" width="35%" /><br>
+
+
 Include the following lines in mapred-site.xml file
  
-<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="35%" />
-<br>
+<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="35%" /><br>
+
+
+
 d)	hdfs-site.xml
 
 Include the following lines in hdfs-site.xml file

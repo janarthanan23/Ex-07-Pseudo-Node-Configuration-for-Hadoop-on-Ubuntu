@@ -66,22 +66,22 @@ Include the following lines in core-site.xml file between <configuration> and
 
 </configuration> tags
 
-![10](https://github.com/user-attachments/assets/ac0c1344-a0ed-4ab3-83f1-3ca31d59205a)
+![10](https://github.com/user-attachments/assets/ac0c1344-a0ed-4ab3-83f1-3ca31d59205a)<br>
 
 c)	mapred-site.xml
 
 <img src="https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0" width="35%" />
-
+<br>
 Include the following lines in mapred-site.xml file
  
 <img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="35%" />
-
+<br>
 d)	hdfs-site.xml
 
 Include the following lines in hdfs-site.xml file
 
 <img src="https://github.com/user-attachments/assets/47b39cbc-7e8e-4a4b-9707-02422070ecda" width="30%" />
-
+<br>
 e)	yarn-site.xml
 
 Include the following lines in yarn-site.xml file

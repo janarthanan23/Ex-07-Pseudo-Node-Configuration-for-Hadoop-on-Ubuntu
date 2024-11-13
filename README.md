@@ -70,39 +70,40 @@ Include the following lines in core-site.xml file between <configuration> and
 
 c)	mapred-site.xml
 
-<img src="https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0" width="25%" />
+<img src="https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0" width="35%" />
 
 Include the following lines in mapred-site.xml file
  
-<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="25%" />
+<img src="https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a" width="35%" />
 
 d)	hdfs-site.xml
 
 Include the following lines in hdfs-site.xml file
 
-<img src="https://github.com/user-attachments/assets/47b39cbc-7e8e-4a4b-9707-02422070ecda" width="25%" />
+<img src="https://github.com/user-attachments/assets/47b39cbc-7e8e-4a4b-9707-02422070ecda" width="30%" />
 
 e)	yarn-site.xml
 
 Include the following lines in yarn-site.xml file
 
-<img src="https://github.com/user-attachments/assets/35243557-25be-4468-b1d1-4686a61a9397" width="25%" />
+<img src="https://github.com/user-attachments/assets/35243557-25be-4468-b1d1-4686a61a9397" width="40%" />
 
 8.	Format the Hadoop File system implemented on top of the local file system using
 
-![15](https://github.com/user-attachments/assets/710df2f1-12ef-42cc-982b-ad37e4cb01fb)
+<img src="https://github.com/user-attachments/assets/710df2f1-12ef-42cc-982b-ad37e4cb01fb" width="40%" />
+
 
 9.	Start Hadoop using
 
-![16](https://github.com/user-attachments/assets/ff41bcda-3e9a-450e-bca8-bf8858207b39)<br>
-<br>![17](https://github.com/user-attachments/assets/6012351c-93b9-4c43-b720-92e5d18728be)
-
+<img src="https://github.com/user-attachments/assets/ff41bcda-3e9a-450e-bca8-bf8858207b39" width="40%" />
+<br>
+<img src="https://github.com/user-attachments/assets/6012351c-93b9-4c43-b720-92e5d18728be" width="40%" />
 
 Explore Hadoop using http://localhost:50070/ from the browser	
  
 10.	The commonly used HDFS Commands are as follows:
 
-![18](https://github.com/user-attachments/assets/df6d34e4-5229-4464-906c-66475a8f3989)
+<img src="https://github.com/user-attachments/assets/df6d34e4-5229-4464-906c-66475a8f3989" width="40%" />
 
 11.	Create a directory ‘/input’ in HDFS
 

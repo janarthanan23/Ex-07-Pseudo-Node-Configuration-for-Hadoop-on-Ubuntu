@@ -98,7 +98,7 @@ Include the following lines in yarn-site.xml file
 
 9.	Start Hadoop using
 
-<img src="https://github.com/user-attachments/assets/ff41bcda-3e9a-450e-bca8-bf8858207b39" width="32%" />
+<img src="https://github.com/user-attachments/assets/ff41bcda-3e9a-450e-bca8-bf8858207b39" width="26%" />
 <br>
 <img src="https://github.com/user-attachments/assets/6012351c-93b9-4c43-b720-92e5d18728be" width="40%" />
 
@@ -113,16 +113,16 @@ Explore Hadoop using http://localhost:50070/ from the browser
 <img src="https://github.com/user-attachments/assets/079d266e-6302-478c-8108-7123f6305ddc" width="25%" />
 
 
-12.	Copy the input files into the distributed file system
+<br>12.	Copy the input files into the distributed file system
 
 <img src="https://github.com/user-attachments/assets/1070e89c-92c6-4085-ad95-c25cb42db862" width="35%" />
 
 
-13.	Run some of the examples provided
+<br>13.	Run some of the examples provided
 
 <img src="https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339" width="40%" />
 
-14.	Examine the output files
+<br>14.	Examine the output files
 
 <img src="https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47" width="40%" />
 

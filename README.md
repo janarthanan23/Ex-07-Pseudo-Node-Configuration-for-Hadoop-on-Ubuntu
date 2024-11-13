@@ -39,7 +39,7 @@ $HOME/.bashrc file
 6.	Run the.bashrc & profile files from the $ prompt for updating the changes
 
 
-![6](https://github.com/user-attachments/assets/77f349a6-4631-449e-bb03-b77c0f3ce87a) <br>
+![6](https://github.com/user-attachments/assets/77f349a6-4631-449e-bb03-b77c0f3ce87a)
 <br>![7](https://github.com/user-attachments/assets/99438a71-e073-46b2-ba1e-3188d2956b80)
 
 $ bin/hadoop version	

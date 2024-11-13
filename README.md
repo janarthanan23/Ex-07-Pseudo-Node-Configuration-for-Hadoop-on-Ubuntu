@@ -106,28 +106,31 @@ Explore Hadoop using http://localhost:50070/ from the browser
 
 11.	Create a directory ‘/input’ in HDFS
 
-![19](https://github.com/user-attachments/assets/079d266e-6302-478c-8108-7123f6305ddc){: width="50%" }
+<img src="https://github.com/user-attachments/assets/079d266e-6302-478c-8108-7123f6305ddc" width="25%" />
+
 
 12.	Copy the input files into the distributed file system
 
-![20](https://github.com/user-attachments/assets/1070e89c-92c6-4085-ad95-c25cb42db862){: width="50%" }
+<img src="https://github.com/user-attachments/assets/1070e89c-92c6-4085-ad95-c25cb42db862" width="25%" />
+
 
 13.	Run some of the examples provided
 
-![21](https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339){: width="50%" }
+<img src="https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339" width="25%" />
 
 14.	Examine the output files
 
-![22](https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47){: width="50%" }
+<img src="https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47" width="25%" />
+
 
 Copy the output files from the distributed file system to the local file system and examine them:
 
-![23](https://github.com/user-attachments/assets/674e4f4b-0690-4fbb-839f-482c618f738c){: width="50%" }
+<img src="https://github.com/user-attachments/assets/674e4f4b-0690-4fbb-839f-482c618f738c" width="25%" />
+
 
 or
 View the output files on the distributed file system<br>
 <img src="https://github.com/user-attachments/assets/4d69b5ba-c7d6-458d-a004-cb4296eaa228" width="25%" />
-<img src="https://github.com/user-attachments/assets/4d69b5ba-c7d6-458d-a004-cb4296eaa228" style="width: 20%; height: auto;" />
 
 
 

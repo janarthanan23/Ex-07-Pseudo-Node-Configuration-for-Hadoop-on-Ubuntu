@@ -126,7 +126,8 @@ Copy the output files from the distributed file system to the local file system 
 
 or
 View the output files on the distributed file system<br>
-![24](https://github.com/user-attachments/assets/4d69b5ba-c7d6-458d-a004-cb4296eaa228){: width="50%" }
+<img src="https://github.com/user-attachments/assets/4d69b5ba-c7d6-458d-a004-cb4296eaa228" width="50%" />
+
 
 ## Result:
 Thus, the implementation of Pseudo Node configuration for Hadoop on ubuntu is successfully executed.

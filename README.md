@@ -116,7 +116,6 @@ Explore Hadoop using http://localhost:50070/ from the browser
 
 ![21](https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339)
 
-
 14.	Examine the output files
 
 ![22](https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47)

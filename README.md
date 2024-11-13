@@ -17,31 +17,30 @@ Single-Node Configuration
 
 1.	Create a dedicated user account for hadoop
 
-![Screenshot 2023-10-24 193657](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/39a0f695-6ec2-4140-9877-f0b8ecbfabfc)
+![1](https://github.com/user-attachments/assets/92c1e563-c5f1-47fb-b37b-7d5e12b31164)
 
 2.	Install java1.8 in folder /usr/local
 
-![Screenshot 2023-10-24 193712](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/f699b523-f51c-403c-bf7b-49572801cb1c)
+![2](https://github.com/user-attachments/assets/5ea2d3ed-90dc-445a-bf33-c11e3cfc34a3)
 
 3.	Install Hadoop
 
-![Screenshot 2023-10-24 193724](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/21883d17-702f-4cec-b534-f0189121e305)
+![3](https://github.com/user-attachments/assets/ffda2502-c6a3-4fd3-8295-9f3dfc1ba252)
 
 4.	Set the hadoop environment variables: Include the following lines in the
-5.	
 $HOME/.bashrc file
 
- ![Screenshot 2023-10-24 193734](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/c2519752-39b7-4eda-bc66-6a3590291f98)
+![4](https://github.com/user-attachments/assets/d1c52226-f8dd-4d3f-b745-6c1691b8d064)
 
 5.	Set hadoop environment variables: Include the following lines /etc/profile file
 
-![Screenshot 2023-10-24 193746](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/3c76dabb-e3e6-416c-bf9b-040569c34f3c)
+![5](https://github.com/user-attachments/assets/696d8da4-a010-4538-8b2e-4bc1ab00960a)
 
 6.	Run the.bashrc & profile files from the $ prompt for updating the changes
 
 
-![Screenshot 2023-10-24 193833](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/038259a3-e76b-4210-92f3-4cf2cc30546b)
-
+![6](https://github.com/user-attachments/assets/77f349a6-4631-449e-bb03-b77c0f3ce87a) <br>
+<br>![7](https://github.com/user-attachments/assets/99438a71-e073-46b2-ba1e-3188d2956b80)
 
 $ bin/hadoop version	
 
@@ -51,85 +50,84 @@ $ bin/hadoop version
 
 path ::	/usr/local/hadoop-2.5.1/etc/hadoop
 
-
 a)	hadoop-env.sh
 
 Include the following lines in hadoop-env.sh file
 
-![Screenshot 2023-10-24 193842](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/e8edc5e7-bd35-4f38-a9f7-76bc2a9e1354)
+![8](https://github.com/user-attachments/assets/c1b537c1-19ba-49fa-b30a-6ad3560fa72a)
 
 b)	core-site.xml
 
 Configure the directory for Hadoop to store its data files, the network ports it listens to, etc. Setup will use Hadoop’s Distributed File System (HDFS-single local machine)
 
-![Screenshot 2023-10-24 193851](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/4771b777-f944-4dd5-a26e-c9a4eabf946e)
-
-
+![9](https://github.com/user-attachments/assets/b54388b5-4e27-4ca9-b226-4ea8b993f5a0)
  
 Include the following lines in core-site.xml file between <configuration> and
 
 </configuration> tags
 
-![Screenshot 2023-10-24 193907](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/fda3f89e-cb94-470b-abf2-0e18b013c411)
+![10](https://github.com/user-attachments/assets/ac0c1344-a0ed-4ab3-83f1-3ca31d59205a)
 
 c)	mapred-site.xml
  
-![Screenshot 2023-10-24 194518](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/c1c187e0-1479-4a90-a1c8-705e04f43334)
+![11](https://github.com/user-attachments/assets/4e182fa8-e530-4eec-9b40-53a0a14777a0)
 
 Include the following lines in mapred-site.xml file
  
-![Screenshot 2023-10-24 194545](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/69429f3d-67c3-4884-b54e-a178728526fc)
+![12](https://github.com/user-attachments/assets/d7412a43-c500-440a-8367-ebb97f11a15a)
 
 d)	hdfs-site.xml
 
 Include the following lines in hdfs-site.xml file
 
-![Screenshot 2023-10-24 194609](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/3ddff1e6-f246-463c-ab72-3857b1e6972a)
+![13](https://github.com/user-attachments/assets/47b39cbc-7e8e-4a4b-9707-02422070ecda)
 
 e)	yarn-site.xml
 
 Include the following lines in yarn-site.xml file
 
-![Screenshot 2023-10-24 194633](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/470d9d38-3b3b-412f-a8fd-ac6429a703b1)
+![14](https://github.com/user-attachments/assets/35243557-25be-4468-b1d1-4686a61a9397)
 
 8.	Format the Hadoop File system implemented on top of the local file system using
 
-![Screenshot 2023-10-24 194652](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/d38d0ed5-c260-4b80-8905-406c86d55ad3)
+![15](https://github.com/user-attachments/assets/710df2f1-12ef-42cc-982b-ad37e4cb01fb)
 
 9.	Start Hadoop using
 
-![Screenshot 2023-10-24 194720](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/12029523-2368-4a08-a76b-9259ffaec3ec)
+![16](https://github.com/user-attachments/assets/ff41bcda-3e9a-450e-bca8-bf8858207b39)<br>
+<br>![17](https://github.com/user-attachments/assets/6012351c-93b9-4c43-b720-92e5d18728be)
+
 
 Explore Hadoop using http://localhost:50070/ from the browser	
  
 10.	The commonly used HDFS Commands are as follows:
 
-![Screenshot 2023-10-24 194735](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/d4cbd9e5-faf6-45b5-bfdf-7b61f9f74a39)
+![18](https://github.com/user-attachments/assets/df6d34e4-5229-4464-906c-66475a8f3989)
 
 11.	Create a directory ‘/input’ in HDFS
 
-![Screenshot 2023-10-24 194750](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/4dc99b55-e758-41ca-be1f-1890d58dc00a)
+![19](https://github.com/user-attachments/assets/079d266e-6302-478c-8108-7123f6305ddc)
 
 12.	Copy the input files into the distributed file system
 
-![Screenshot 2023-10-24 194801](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/705faa0c-4648-45d5-b668-d11cc952cac8)
+![20](https://github.com/user-attachments/assets/1070e89c-92c6-4085-ad95-c25cb42db862)
 
 13.	Run some of the examples provided
 
-![Screenshot 2023-10-24 194812](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/cec7b0bc-bf0f-4415-b99c-e2cf3da6e681)
+![21](https://github.com/user-attachments/assets/9652e89c-c5aa-46cb-bcdc-c2781c80f339)
 
 
 14.	Examine the output files
 
-![Screenshot 2023-10-24 194824](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/5b4225ef-69d0-4e50-8569-bb1ee3aa96c0)
+![22](https://github.com/user-attachments/assets/accab9ce-79e8-4533-a16e-c0e1108b5f47)
 
 Copy the output files from the distributed file system to the local file system and examine them:
 
- ![Screenshot 2023-10-24 194835](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/951b694f-e3f3-4a9c-9536-81d0448d842c)
+![23](https://github.com/user-attachments/assets/674e4f4b-0690-4fbb-839f-482c618f738c)
 
 or
 View the output files on the distributed file system
-![Screenshot 2023-10-24 194845](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119559905/dac190f0-8d57-4c3f-b385-30f946536cd6)
+![24](https://github.com/user-attachments/assets/4d69b5ba-c7d6-458d-a004-cb4296eaa228)
 
 ## Result:
 Thus, the implementation of Pseudo Node configuration for Hadoop on ubuntu is successfully executed.

@@ -5,9 +5,6 @@
 To implement Pseudo Node configuration for Hadoop on ubuntu.
 
 
-**Name** : Yuvaraj B<br>
-**Reg No**: 212222040043
-
 ## Hadoop Installation Overview
 
 ## Pre-requisites
